@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100;300;400;700;900&family=Konkhmer+Sleokchher&family=Moul&display=swap');
+@theme{
+    --font-slekcher:"Konkhmer Sleokchher" , system-ui;
+
+}
